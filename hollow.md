@@ -1,1 +1,1 @@
-![HollowKnight](../klemt/hollow.png)
+![HollowKnight](/hollow.png)
