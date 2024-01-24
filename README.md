@@ -1,9 +1,18 @@
-<h1> Hollow Knight </h1>
+<h1> Desafio: </h1>
+<h2>     Criar um repositório privado no GitHub com um nome escolhido e compartilhá-lo com o usuário julia-eileen. Em seguida, clonar o repositório localmente.
 
-<h2> Hollow Knight é um jogo indie de gênero metroidvania desenvolvido e publicado pela Team Cherry, lançado para Microsoft Windows, macOS e Linux em 2017 e, posteriormente, para Nintendo Switch, Playstation 4 e Xbox One em 2018.[1] O seu desenvolvimento foi sustentado através de uma campanha no Kickstarter, onde arrecadou cerca de AU$57.000 até o final de 2014.
+    Dentro do repositório, adicionar um arquivo README.md utilizando o terminal, contendo as instruções do desafio.
 
-No jogo, um cavaleiro sem nome explora um reino em ruínas habitado por insetos, desbloqueando habilidades novas que ajudam a explorar e livrar o reino de uma infecção causada por um deus esquecido.
+    Adicionar um arquivo com o nome de uma série, filme ou outra mídia de entretenimento preferida, usando a extensão .md, por exemplo, naruto.md. Criar seções dentro desse arquivo usando a sintaxe markdown.
 
-Até o início de 2019, Hollow Knight havia vendido 2,800,000 de cópias no mundo inteiro.[3] Uma sequência chamada Hollow Knight: Silksong está em desenvolvimento. </h2>
+    Adicionar um heading com o título da mídia escolhida, seguido por uma imagem representativa, adicionada ao repositório e referenciada no markdown.
 
-![HollowKnight](/hollow.png)
+    Incluir um parágrafo com o resumo da mídia escolhida, adicionar os arquivos ao staging do Git, realizar um commit com uma mensagem descritiva e efetuar um push para o repositório remoto.
+
+    Adicionar um heading menor, intitulado Sinopse, seguido por um parágrafo com a sinopse da mídia escolhida. Fazer commit e push das alterações.
+
+    Adicionar outro heading, com o título Análise Pessoal, de mesmo nível do anterior. Escrever uma breve análise pessoal sobre a mídia escolhida.
+
+    Fazer commit e push das últimas alterações.
+
+O desafio visa consolidar o conhecimento prático em terminal e Git, envolvendo a criação de arquivos markdown, manipulação de repositórios e realização de commits e pushes. </h2>
