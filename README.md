@@ -1,4 +1,4 @@
-![Imagem Vorigo](images/vortigo.png)
+![Imagem Vorigo](images/voortigo.png)
 # Desafio:
 
 ## Criar um repositório privado no GitHub 🚀
