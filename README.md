@@ -1,4 +1,4 @@
-![Imagem Vorigo](C:\Users\pedro\Documents\GitHub\klemt\images\vortigorb.png)
+![Imagem Vorigo](klemt\images\vortigorb.png)
 # Desafio:
 
 ## Criar um repositório privado no GitHub 🚀
