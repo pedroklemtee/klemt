@@ -1,18 +1,27 @@
-<h1> Desafio: </h1>
-<h2>     Criar um repositório privado no GitHub com um nome escolhido e compartilhá-lo com o usuário julia-eileen. Em seguida, clonar o repositório localmente.
+# Desafio:
 
-    Dentro do repositório, adicionar um arquivo README.md utilizando o terminal, contendo as instruções do desafio.
+## Criar um repositório privado no GitHub 🚀
+1. Escolha um nome para o repositório e compartilhe com o usuário **julia-eileen**.
+2. Clone o repositório localmente.
 
-    Adicionar um arquivo com o nome de uma série, filme ou outra mídia de entretenimento preferida, usando a extensão .md, por exemplo, naruto.md. Criar seções dentro desse arquivo usando a sintaxe markdown.
+## Adicionar arquivos via terminal:
+3. Adicione um arquivo `README.md` com as instruções do desafio.
+4. Crie um arquivo com o nome de uma mídia de entretenimento, por exemplo, `naruto.md`. Utilize a sintaxe markdown para criar seções.
 
-    Adicionar um heading com o título da mídia escolhida, seguido por uma imagem representativa, adicionada ao repositório e referenciada no markdown.
+## Detalhes sobre a mídia escolhida:
+5. Adicione um heading com o título da mídia.
+6. Inclua uma imagem representativa no repositório, referenciando-a no markdown.
+7. Adicione um parágrafo com o resumo da mídia.
+8. Adicione os arquivos ao staging do Git, faça um commit descritivo e efetue um push para o repositório remoto.
 
-    Incluir um parágrafo com o resumo da mídia escolhida, adicionar os arquivos ao staging do Git, realizar um commit com uma mensagem descritiva e efetuar um push para o repositório remoto.
+## Sinopse:
+9. Adicione um heading menor, intitulado "Sinopse".
+10. Adicione um parágrafo com a sinopse da mídia.
+11. Faça commit e push das alterações.
 
-    Adicionar um heading menor, intitulado Sinopse, seguido por um parágrafo com a sinopse da mídia escolhida. Fazer commit e push das alterações.
+## Análise Pessoal:
+12. Adicione outro heading, com o título "Análise Pessoal".
+13. Escreva uma breve análise pessoal sobre a mídia escolhida.
+14. Faça commit e push das últimas alterações.
 
-    Adicionar outro heading, com o título Análise Pessoal, de mesmo nível do anterior. Escrever uma breve análise pessoal sobre a mídia escolhida.
-
-    Fazer commit e push das últimas alterações.
-
-O desafio visa consolidar o conhecimento prático em terminal e Git, envolvendo a criação de arquivos markdown, manipulação de repositórios e realização de commits e pushes. </h2>
+O desafio visa consolidar o conhecimento prático em terminal e Git, envolvendo a criação de arquivos markdown, manipulação de repositórios e realização de commits e pushes. 🌟
