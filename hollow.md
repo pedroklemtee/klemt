@@ -1,6 +1,6 @@
 <h1> Hollow Knight </h1>
 
-![Imagem Hollow Knight](images/hollow_resized.png.png)
+![Imagem Hollow Knight](images/hollow_resized.png)
 
 <h2> Hollow Knight é um jogo indie de gênero metroidvania desenvolvido e publicado pela Team Cherry, lançado para Microsoft Windows, macOS e Linux em 2017 e, posteriormente, para Nintendo Switch, Playstation 4 e Xbox One em 2018.[1] O seu desenvolvimento foi sustentado através de uma campanha no Kickstarter, onde arrecadou cerca de AU$57.000 até o final de 2014.
 
